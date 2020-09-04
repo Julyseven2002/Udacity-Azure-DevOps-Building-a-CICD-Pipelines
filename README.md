@@ -10,4 +10,4 @@ Udacity  ND Azure DevOps: Building a CI/CD Pipelines Project
 
 
 ### Output of a test run
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.34.52%20AM.png?raw=true)
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.42.00%20AM.png?raw=true)
