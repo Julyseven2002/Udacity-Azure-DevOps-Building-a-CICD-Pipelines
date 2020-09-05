@@ -1,7 +1,6 @@
 # Overview
-Building a CI/CD Pipelines is second project in the of the Udacity ND Azure DevOps program
 
-![Python application test with Github Actions](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+<TODO: complete this with an overview of your project>
 
 ## Project Plan
 <TODO: Project Plan
@@ -16,23 +15,13 @@ Building a CI/CD Pipelines is second project in the of the Udacity ND Azure DevO
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
-
-
-
-#### Screenshot for the project cloned into Azure Cloud Shell
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.11.05%20AM.png?raw=true)
-
-### Screen for Passing tests after running make all command from the Makefile
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.25.10%20AM.png?raw=true)
-
-
-### Output of a test run
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.42.00%20AM.png?raw=true)
-
-### Passing test in Github Action
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2012.38.08%20PM.png?raw=true)
 * Project running on Azure App Service
 
+* Project cloned into Azure Cloud Shell
+
+* Passing tests that are displayed after running the `make all` command from the `Makefile`
+
+* Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
@@ -58,8 +47,5 @@ Port: 443
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
-
-
-
 
 
