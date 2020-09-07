@@ -1,12 +1,16 @@
 # Overview
+Building a CI/CD is the second project in Udacity Azure DevOps ND. This presentation highlights the process of building a CI/CD pipelines using Github and Azure technologies. 
 
-<TODO: complete this with an overview of your project>
+
+![CI](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/workflows/CI/badge.svg)
 
 ## Project Plan
 <TODO: Project Plan
 
 * A link to a Trello board for the project
+![alt text](https://trello.com/b/4J77G7tb/udacity-azure-cloud-devops-nd?raw=true)
 * A link to a spreadsheet that includes the original and final project plan>
+![alt text](https://docs.google.com/spreadsheets/d/1AZMtpwwCM4olytDRDnzc3QWygjhnXiKNCb-HX5baIdA/edit?usp=sharing?raw=true)
 
 ## Instructions
 
