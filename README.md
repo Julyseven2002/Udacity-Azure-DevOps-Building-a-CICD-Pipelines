@@ -8,9 +8,9 @@ Building a CI/CD is the second project in Udacity Azure DevOps ND. This presenta
 <TODO: Project Plan
 
 * A link to a Trello board for the project
-![alt text](https://trello.com/b/4J77G7tb/udacity-azure-cloud-devops-nd?raw=true)
+https://trello.com/b/4J77G7tb/udacity-azure-cloud-devops-nd?raw=true
 * A link to a spreadsheet that includes the original and final project plan>
-![alt text](https://docs.google.com/spreadsheets/d/1AZMtpwwCM4olytDRDnzc3QWygjhnXiKNCb-HX5baIdA/edit?usp=sharing?raw=true)
+https://docs.google.com/spreadsheets/d/1AZMtpwwCM4olytDRDnzc3QWygjhnXiKNCb-HX5baIdA/edit?usp=sharing
 
 ## Instructions
 
