@@ -16,10 +16,30 @@ https://docs.google.com/spreadsheets/d/1AZMtpwwCM4olytDRDnzc3QWygjhnXiKNCb-HX5ba
 
 <TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Building%20CICD%20in%20Azure%20Architectural%20Diagram(1).png?raw=true)
+
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
+Steps:
+1. Login Azure cloud
+2. Click on Cloud Shell in top navbar to launch Azure cloud shell
+3. Clone the project repository
+4. Change directory to the cloned project
+5. Deploy to Azure App Service using shell script command.sh in the root directory
+   `./commands.sh`
+6. Verify the application is deployed by browsing the url 
+7. Execute the script make_predict_azure_app.sh
+   `./make_predict_azure_app.sh`
+   
+```bash
+Port: 443
+{"prediction":[20.35373177134412]}
+```
+
+
 * Project running on Azure App Service
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Building%20CICD%20in%20Azure%20Architectural%20Diagram(1).png?raw=true)
 
 * Project cloned into Azure Cloud Shell
 
