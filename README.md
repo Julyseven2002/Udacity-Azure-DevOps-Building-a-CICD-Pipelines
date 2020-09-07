@@ -39,17 +39,23 @@ Port: 443
 
 
 * Project running on Azure App Service
-![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Building%20CICD%20in%20Azure%20Architectural%20Diagram(1).png?raw=true)
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.11.05%20AM.png?raw=true)
 
 * Project cloned into Azure Cloud Shell
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.25.10%20AM.png?raw=true)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Building%20CICD%20in%20Azure%20Architectural%20Diagram(1).png?raw=true)
+
 
 * Output of a test run
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-04%20at%2010.42.00%20AM.png?raw=true)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%203.51.50%20PM.png?raw=true)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%203.54.11%20PM.png?raw=true)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
@@ -59,9 +65,11 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%203.56.12%20PM.png?raw=true)
+
 
 * Output of streamed log files from deployed application
-
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%204.03.20%20PM.png?raw=true)
 > 
 
 ## Enhancements
