@@ -24,12 +24,13 @@ Instructions for running the Python project.  How could a user with no context r
 Steps:
 1. Login Azure cloud
 2. Click on Cloud Shell in top navbar to launch Azure cloud shell
-3. Clone the project repository
+3. Clone the project repository - `git@github.com:Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines.git`
 4. Change directory to the cloned project
 5. Deploy to Azure App Service using shell script command.sh in the root directory
    `./commands.sh`
 6. Verify the application is deployed by browsing the url 
-7. Execute the script make_predict_azure_app.sh
+7. Execute the script make_predict_azure_app.sh to make a prediction. The out should look like the below:
+
    `./make_predict_azure_app.sh`
    
 ```bash
