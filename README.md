@@ -5,7 +5,7 @@ Building a CI/CD is the second project in Udacity Azure DevOps ND. This presenta
 ![CI](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/workflows/CI/badge.svg)
 
 ## Project Plan
-<TODO: Project Plan
+Project Plan
 
 * A link to a Trello board for the project
 https://trello.com/b/4J77G7tb/udacity-azure-cloud-devops-nd?raw=true
@@ -14,12 +14,12 @@ https://docs.google.com/spreadsheets/d/1AZMtpwwCM4olytDRDnzc3QWygjhnXiKNCb-HX5ba
 
 ## Instructions
 
-<TODO:  
+
 * Architectural Diagram (Shows how key parts of the system work)>
 ![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Building%20CICD%20in%20Azure%20Architectural%20Diagram(1).png?raw=true)
 
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 Steps:
 1. Login Azure cloud
