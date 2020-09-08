@@ -76,6 +76,11 @@ Port: 443
 ![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%204.03.20%20PM.png?raw=true)
 > 
 
+
+## A load test with locust
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/locust1.png?raw=true)
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/locust2.png?raw=true)
+
 ## Enhancements
 
 
