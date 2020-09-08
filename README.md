@@ -78,9 +78,9 @@ Port: 443
 
 ## Enhancements
 
-A short description of how to improve the project in the future
-Add integration test and configure it to run in CI. 
-Automate the CI/CD using Infrastruture as Code
+
+1. Add integration test and configure it to run in CI. 
+2. Automate the CI/CD using Infrastruture as Code
 
 ## Demo 
 
