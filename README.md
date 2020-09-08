@@ -78,7 +78,9 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+A short description of how to improve the project in the future
+Add integration test and configure it to run in CI. 
+Automate the CI/CD using Infrastruture as Code
 
 ## Demo 
 
