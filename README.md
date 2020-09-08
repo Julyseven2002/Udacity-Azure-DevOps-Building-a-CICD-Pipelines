@@ -59,6 +59,10 @@ Port: 443
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 ![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%203.51.50%20PM.png?raw=true)
 
+
+* Azure App Service
+![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-08%20at%209.15.00%20AM.png?raw=true)
+
 * Running Azure App Service from Azure Pipelines automatic deployment
 ![alt text](https://github.com/Julyseven2002/Udacity-Azure-DevOps-Building-a-CICD-Pipelines/blob/master/Screen%20Shot%202020-09-07%20at%203.54.11%20PM.png?raw=true)
 
